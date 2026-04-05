@@ -1,4 +1,5 @@
 # Customer Balance & Financial Behavior Analysis
+# -Group Work-
 
 ## Overview
 This project analyzes customer data from a retail bank in Portugal to understand patterns in account balances, financial product usage, and potential credit risk. The goal was to identify characteristics of customers with low account balances and uncover insights that can support better business and marketing decisions.
